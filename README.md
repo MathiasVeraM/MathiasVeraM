@@ -37,6 +37,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+### 📊 Estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathiasVeraM&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasVeraM&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MathiasVeraM&theme=radical&hide_border=true" width="70%" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
