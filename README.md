@@ -58,7 +58,7 @@
 
 ## 🐍 Mi actividad en GitHub
 
-![snake gif](https://github.com/MathiasVeraM/snk/blob/output/github-snake-dark.svg?raw=true)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MathiasVeraM/MathiasVeraM/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
