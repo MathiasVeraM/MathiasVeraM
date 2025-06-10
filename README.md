@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
   <div>
+  <br/>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00B2DF&width=435&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil!" alt="Typing SVG" />
     </a>
   </div>
   <p> Estudiante de Ingeniería en Software |  Apasionado por el desarrollo Fullstack</p>
 </div>
-
-<br/>
 
 ## 🧠 Sobre mí
 
@@ -53,12 +52,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MathiasVeraM&theme=radical&hide_border=true" width="70%" />
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
-</p>
 
 <br/>
 
