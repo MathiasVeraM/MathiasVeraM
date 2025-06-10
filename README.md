@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  <h1>¡Hola, mundo! 👋 Soy Mathias Vera</h1>
-  <p>🧑‍💻 Estudiante de Ingeniería en Software | 💡 Apasionado por el desarrollo Fullstack</p>
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00B2DF&width=435&lines=Hola+a+todos!+Bienvenidos+a+mi+perfil!" alt="Typing SVG" />
+    </a>
+  </div>
+  <p> Estudiante de Ingeniería en Software |  Apasionado por el desarrollo Fullstack</p>
 </div>
 
 ---
@@ -10,7 +14,24 @@
 
 🎓 Soy una persona responsable, analítica y organizada.  
 💬 Me encanta compartir ideas, colaborar sin complicaciones y encontrar soluciones efectivas.  
-🎯 Busco oportunidades para crecer como desarrollador y trabajar en proyectos que impacten.
+📖 Actualmente estoy aprendiendo React, SpringBoot, Django, Flutter.
+🍝 La comida italiana es una de mis pasiones.
+⚡ Dato curioso Winter is comming
+
+---
+
+## 🤝 ¡Conectemos!
+<div align="center">
+  <a href="mailto:veramorenomathias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>
+  <a href="www.linkedin.com/in/mathias-vera-moreno-25b5ab319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/mathiasveram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ---
 
@@ -51,15 +72,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
 </p>
-
----
-
-## 🤝 ¡Conectemos!
-
-- 📧 veramorenomathias@gmail.com
-- 📧 mathias.vera@udla.edu.ec
-- 👔 www.linkedin.com/in/mathias-vera-moreno-25b5ab319
-- 💬 Abierto a colaboraciones, proyectos freelance o simplemente conversar sobre tecnología
 
 ---
 
