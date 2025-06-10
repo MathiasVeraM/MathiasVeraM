@@ -36,15 +36,15 @@
 ## ⚙️ Tecnologías que uso o estoy aprendiendo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,dart" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,dart,html,css,javascript" height="40" />
   <img src="https://skillicons.dev/icons?i=flutter,react,django,spring,dotnet" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,figma" height="40" /> 
 </div>
 
 <br/>
 
-### 📊 Estadísticas
+## 📊 Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathiasVeraM&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
