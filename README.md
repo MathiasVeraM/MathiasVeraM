@@ -36,10 +36,9 @@
 ## ⚙️ Tecnologías que uso o estoy aprendiendo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,dart,sql" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=flutter,react,django,spring,dotnet" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,dart" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=flutter,react,django,spring,dotnet" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" height="40" />
-  <img src="https://skillicons.dev/icons?i=database" height="40" title="SQL Server (general)" /> 
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" height="40" /> 
 </div>
 
