@@ -15,8 +15,6 @@
 🎓 Soy una persona responsable, analítica y organizada.  
 💬 Me encanta compartir ideas, colaborar sin complicaciones y encontrar soluciones efectivas.  
 📖 Actualmente estoy aprendiendo React, SpringBoot, Django, Flutter.
-🍝 La comida italiana es una de mis pasiones.
-⚡ Dato curioso Winter is comming
 
 ---
 
