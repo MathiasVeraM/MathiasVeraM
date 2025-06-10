@@ -56,4 +56,6 @@
 
 <br/>
 
- ⭐ *Gracias por pasar por mi perfil. ¡Explora mis proyectos y veamos qué podemos construir juntos!*
+<div align="center">
+   ⭐ Gracias por pasar por mi perfil. ¡Explora mis proyectos y veamos qué podemos construir juntos!
+</div>
